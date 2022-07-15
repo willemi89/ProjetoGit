@@ -1,1 +1,2 @@
-Olá, este projeto te ensina a usar o GIt.
+Olá, este projeto te ensina a usar o GIt
+Isso é uma alteração
